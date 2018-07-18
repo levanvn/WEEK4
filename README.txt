@@ -7,3 +7,4 @@ view.cpp - Các view người dùng
 controller.cpp - tương tác với Database 
 We4.db   - File SQLite chứa CSDL 
 week4.exe - File thực thi cho Windows
+sqlite3.dll - File dll để thực thi cùng week4.exe
